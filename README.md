@@ -7,4 +7,4 @@
 
 Everybody knows that a photo looks better with a filter. In this recipe, you build a scrollable, filter selection carousel.
 
-![Download Button](https://flutter.dev/assets/cookbook/effects/PhotoFilterCarousel-0d26e484df1682f32e35e71f7340b0db6499e124425b5cf03a6afd363b98e7a6.gif)
+![Download Button](https://github.com/muhammadnumanlatif/Photo_Filter_Carousel/blob/master/Screenshot_1625651383.png)
